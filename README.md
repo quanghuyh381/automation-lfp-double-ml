@@ -38,8 +38,8 @@ repository**:
 | `EMP_TEMP_SEX_OC2_NB_A-....csv` | ILOSTAT (ILO) | Employment by 2-digit ISCO-08 occupation |
 | `HDR25_Composite_indices_complete_time_series.csv` | UNDP Human Development Report Office | Mean years of schooling |
 | `occ2010_occ1990dd.dta` | Autor and Dorn | Occupation crosswalk |
-| `rti_by_occ1990dd.csv` | (add source) | Routine task intensity by occupation |
-| `relative_price_pwt.csv` | (add source) | Relative price series |
+| `rti_by_occ1990dd.csv` | Author | Routine task intensity by occupation |
+| `relative_price_pwt.csv` | Author | Relative price series |
 
 **To request these files, please email me at: quanghuyh381@gmail.com**
 with the subject line "Input files request" and a short note on how
