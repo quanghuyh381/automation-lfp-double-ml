@@ -27,7 +27,7 @@ Does automation exposure affect labor force participation, and does the effect d
 - Differences between income groups are still being tested.
 
 ## Input files (not included)
-The script reads three Excel files that are **not uploaded to this
+The script reads these files that are **not uploaded to this
 repository**:
 
 | File | Used for |
