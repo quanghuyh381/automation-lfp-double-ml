@@ -35,11 +35,11 @@ repository**:
 | `cenocc2010.xlsx` | 2010 Census occupation codes mapped to SOC codes |
 | `isco_soc_crosswalk.xls` | SOC to ISCO-08 crosswalk |
 | `pwt1001.xlsx` | Penn World Table 10.01 price levels (`pl_i`, `pl_c`) |
-| `EMP_TEMP_SEX_OC2_NB_A-....csv` | ILOSTAT (ILO) | Employment by 2-digit ISCO-08 occupation |
-| `HDR25_Composite_indices_complete_time_series.csv` | UNDP Human Development Report Office | Mean years of schooling |
-| `occ2010_occ1990dd.dta` | Autor and Dorn | Occupation crosswalk |
-| `rti_by_occ1990dd.csv` | Author | Routine task intensity by occupation |
-| `relative_price_pwt.csv` | Author | Relative price series |
+| `EMP_TEMP_SEX_OC2_NB_A-....csv` | Employment by 2-digit ISCO-08 occupation |
+| `HDR25_Composite_indices_complete_time_series.csv` | Mean years of schooling |
+| `occ2010_occ1990dd.dta` | Occupation crosswalk |
+| `rti_by_occ1990dd.csv` | Routine task intensity by occupation |
+| `relative_price_pwt.csv` | Relative price series |
 
 **To request these files, please email me at: quanghuyh381@gmail.com**
 with the subject line "Input files request" and a short note on how
